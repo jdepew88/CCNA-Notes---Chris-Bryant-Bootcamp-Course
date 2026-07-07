@@ -1,0 +1,122 @@
+[
+  {
+    "source": "DTP and VTP.docx",
+    "markdown": "DTP and VTP/DTP and VTP.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 1,
+    "md_size": 2830
+  },
+  {
+    "source": "First Hop Redundancy Protocols.docx",
+    "markdown": "First Hop Redundancy Protocols/First Hop Redundancy Protocols.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 6,
+    "md_size": 9604
+  },
+  {
+    "source": "IP Services.docx",
+    "markdown": "IP Services/IP Services.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 5,
+    "md_size": 5719
+  },
+  {
+    "source": "IPV6.docx",
+    "markdown": "IPV6/IPV6.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 7,
+    "md_size": 17863
+  },
+  {
+    "source": "Layer 3 Switching.docx",
+    "markdown": "Layer 3 Switching/Layer 3 Switching.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 3,
+    "md_size": 7340
+  },
+  {
+    "source": "Loopback Notes.docx",
+    "markdown": "Loopback Notes/Loopback Notes.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 2,
+    "md_size": 855
+  },
+  {
+    "source": "NAT.docx",
+    "markdown": "NAT/NAT.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 5,
+    "md_size": 4105
+  },
+  {
+    "source": "Network Architecture.docx",
+    "markdown": "Network Architecture/Network Architecture.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 27,
+    "md_size": 26557
+  },
+  {
+    "source": "OSPF Notes 1.docx",
+    "markdown": "OSPF Notes 1/OSPF Notes 1.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 23,
+    "md_size": 21351
+  },
+  {
+    "source": "OSPF Notes 2.docx",
+    "markdown": "OSPF Notes 2/OSPF Notes 2.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 9,
+    "md_size": 11023
+  },
+  {
+    "source": "OSPF version 3.docx",
+    "markdown": "OSPF version 3/OSPF version 3.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 1,
+    "md_size": 1830
+  },
+  {
+    "source": "QoS.docx",
+    "markdown": "QoS/QoS.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 8,
+    "md_size": 9993
+  },
+  {
+    "source": "Rapid Spanning Tree Protocol.docx",
+    "markdown": "Rapid Spanning Tree Protocol/Rapid Spanning Tree Protocol.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 21,
+    "md_size": 19021
+  },
+  {
+    "source": "Routing.docx",
+    "markdown": "Routing/Routing.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 3,
+    "md_size": 1244
+  },
+  {
+    "source": "Security Notes.docx",
+    "markdown": "Security Notes/Security Notes.md",
+    "returncode": 0,
+    "stderr": "",
+    "media_count": 14,
+    "md_size": 26865
+  }
+]

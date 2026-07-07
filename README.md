@@ -2,9 +2,19 @@
 
 Personal study notes from the [Chris Bryant CCNA Bootcamp](https://www.udemy.com/course/new-ccna/) course, organized by topic.
 
-## Contents
+## Formats
 
-All notes are Microsoft Word documents in the [`Word/`](Word/) folder:
+| Folder | Description |
+|--------|-------------|
+| [`Word/`](Word/) | Original Microsoft Word notes (`.docx`) |
+| [`PDF/`](PDF/) | PDF exports of the Word notes |
+| [`markdown/`](markdown/) | Markdown exports with extracted images in per-topic `media/` folders |
+
+See [`markdown/README.md`](markdown/README.md) for the markdown conversion index.
+
+## Word & PDF Contents
+
+All notes are available as Word documents in [`Word/`](Word/) and PDFs in [`PDF/`](PDF/):
 
 | Topic | File |
 |-------|------|
